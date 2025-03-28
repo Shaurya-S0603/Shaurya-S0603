@@ -10,6 +10,7 @@
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/shaurya-singhal-4602a2303)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love programming **games** and designing **hyper-realistic 3D models**
+- 🎮 You can find my projects on [itch.io](https://shauryas0603.itch.io)
 
 ### 📌 Tech Stack
 
