@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Shaurya-S0603
+# 👋 Hi, I’m Shaurya Singhal
 
 ### 🚀 Passionate about AI, Game Development, and 3D Modeling
 
