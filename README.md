@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Shaurya Singhal
 
-### 🚀 Passionate about AI, Game Development, and 3D Modeling
+### 🚀 Computer Science Undergrad at NTU
 
 - 👀 I’m interested in **Python, Unity, Architecture, and AI-driven Software Development**
 - 🌱 I’m currently learning **Advanced Python, Machine Learning, and 3D Modeling**
