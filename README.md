@@ -30,7 +30,7 @@ An enterprise-grade business-intelligence platform that transforms raw marketpla
 
 `Python` `Pandas` `Streamlit` `Plotly` `SQLAlchemy` `SQLite`
 
-### 📈 Stock Market Analyzer
+### 📈 Quant Edge
 
 An interactive financial analytics platform for exploring historical market data, technical indicators, company comparisons, portfolio performance, and data-driven market summaries.
 
